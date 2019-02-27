@@ -2,5 +2,5 @@
 
 # bomberman-cli
 A terminal animation made in bash. 
-## How to run?
+## How to?
 just run with: `bash bomber`
